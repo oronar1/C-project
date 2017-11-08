@@ -1,7 +1,7 @@
 #include "project.h"
 /* project made by:
-Ariel Bar-Itzhack ID 014210520
-Yuval Edelman ID 066372368
+Ariel Bar-Itzhack 
+Yuval Idelman 
 
 project goal is to translate assembly files to octal/binary files which 
 are used by the linker program for assembly.
